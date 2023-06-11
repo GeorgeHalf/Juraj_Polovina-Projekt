@@ -1,2 +1,2 @@
-# Juraj_Polovina-Projekt
+# Juraj Polovina - Projekt
 Projekt iz XML programiranja.
